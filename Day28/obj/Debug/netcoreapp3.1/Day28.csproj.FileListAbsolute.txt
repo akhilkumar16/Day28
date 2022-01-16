@@ -1,0 +1,14 @@
+C:\Users\Kranthi\Desktop\Bridgelabz\Day28\Day28\obj\Debug\netcoreapp3.1\Day28.csproj.AssemblyReference.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Day28\Day28\obj\Debug\netcoreapp3.1\Day28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\Bridgelabz\Day28\Day28\obj\Debug\netcoreapp3.1\Day28.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Day28\Day28\obj\Debug\netcoreapp3.1\Day28.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\Bridgelabz\Day28\Day28\obj\Debug\netcoreapp3.1\Day28.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Day28\Day28\bin\Debug\netcoreapp3.1\Day28.exe
+C:\Users\Kranthi\Desktop\Bridgelabz\Day28\Day28\bin\Debug\netcoreapp3.1\Day28.deps.json
+C:\Users\Kranthi\Desktop\Bridgelabz\Day28\Day28\bin\Debug\netcoreapp3.1\Day28.runtimeconfig.json
+C:\Users\Kranthi\Desktop\Bridgelabz\Day28\Day28\bin\Debug\netcoreapp3.1\Day28.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\Bridgelabz\Day28\Day28\bin\Debug\netcoreapp3.1\Day28.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\Day28\Day28\bin\Debug\netcoreapp3.1\Day28.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\Day28\Day28\obj\Debug\netcoreapp3.1\Day28.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\Day28\Day28\obj\Debug\netcoreapp3.1\Day28.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\Day28\Day28\obj\Debug\netcoreapp3.1\Day28.genruntimeconfig.cache
