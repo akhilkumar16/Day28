@@ -41,8 +41,7 @@ namespace Address_Book_System
                     key = Convert.ToInt32(Console.ReadLine());
                 }
                 Adress.AddTo(book);
-                Adress.CvsSerialiseMethod();
-                Adress.CvsDeserialiseMethod();
+                Adress.JsonSerializeAddressBook();
                 numberBook++;
             }
         }

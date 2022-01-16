@@ -1,0 +1,15 @@
+{
+  "Names": [
+    {
+      "FirstName": "Akhil",
+      "LastName": "Kumar",
+      "Address": "123",
+      "City": "hnk",
+      "State": "TS",
+      "ZipCode": "123456",
+      "PhoneNumber": "1234567891",
+      "Email": "akhilkumar@gmail.com"
+    }
+  ]
+}
+

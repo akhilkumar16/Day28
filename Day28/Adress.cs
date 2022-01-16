@@ -66,43 +66,14 @@ namespace Address_Book_System
                 }
             }
         }
-
-        public static void CvsSerialiseMethod()
+        public static void JsonSerializeAddressBook()
         {
-            try
-            {
-                string csvPath = @"C:\Users\Kranthi\Desktop\Bridgelabz\Day28\cvs.csv";
-                var writer = File.AppendText(csvPath);
+            string jsonPath = @"C:\Users\Kranthi\Desktop\Day28\Day28\json1.json";
+            string result = JsonConvert.SerializeObject(addressBook);
 
+            File.AppendAllText(jsonPath, result);
 
-                foreach (KeyValuePair<string, List<Contact>> item in addressBook)
-                {
-                    foreach (var items in item.Value)
-                    {
-                        writer.WriteLine(items.FirstName + ", " + items.LastName + ", " + items.PhoneNumber + ", " + items.Email + ", " + items.City + ", " + items.State + ", " + items.ZipCode + ".");
-
-                    }
-                    writer.Close();
-                }
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex);
-            }
         }
 
-        public static void CvsDeserialiseMethod()
-        {
-            string csvPath = @"C:\Users\Kranthi\Desktop\Bridgelabz\Day28\cvs.csv";
-            using (var reader = new StreamReader(csvPath))
-
-            {
-                string s = " ";
-                while ((s = reader.ReadLine()) != null)
-                {
-                    Console.WriteLine(s);
-                }
-            }
-        }
     }
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ag2kQHuhYcEHlV56+RCYCgNcCNLHCE4YtyQYVAKV3nyls0vxkGdWzIErcoknrkgcT2Qi6aKgZW02zwY8vB4ysA==",
+  "dgSpecHash": "Wa+go56er3j9nXxdQAisLoByxYPueuKFxoYPlRRAqcPB45gyYx/HS6c6rtT+sCgEl1Ppz4TBOzQX6kFbp4uZJw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kranthi\\Desktop\\Day28\\Day28\\Day28.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Kranthi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
